@@ -1,0 +1,6 @@
+{
+  "name": "Bharat Wheels - Indian Car Dealership",
+  "description": "Certified pre-owned and new cars dealership platform tailored for the Indian automotive market with EMI calculator, RTO verification, and car comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
