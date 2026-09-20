@@ -1,20 +1,41 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🚗 Bharat Wheels
 
-# Run and deploy your AI Studio app
+A modern full-stack **car dealership platform** built for discovering, buying, and managing new & used cars.
 
-This contains everything you need to run your app locally.
+## ✨ Features
 
-View your app in AI Studio: https://ai.studio/apps/0376e9eb-1241-4563-b01b-c66c3e2d34c2
+* 🚘 New & used car listings
+* 🔍 Search & advanced vehicle filters
+* 📄 Dedicated car detail pages
+* 💰 EMI calculator
+* 🚗 Test-drive booking
+* 💵 Car valuation requests
+* 📩 Customer enquiry & lead management
+* 🛡️ 210-point vehicle inspection
+* 🔐 Admin dashboard & authentication
+* 📝 Staff notes & lead management
+* 📱 Fully responsive design
+* 🛡️ 7-day / 500 km refund policy & 1-year warranty
 
-## Run Locally
+## 🛠️ Tech Stack
 
-**Prerequisites:**  Node.js
+**Frontend:** React, CSS
+**Backend:** Node.js, Express.js, TypeScript
+**Database:** Prisma
+**Tools:** Git, GitHub, VS Code
 
+## 🚀 Getting Started
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+```bash
+git clone https://github.com/Jaydip2999/Bharat-car-dealer.git
+cd Bharat-car-dealer
+npm install
+npm run dev
+```
+
+## 👨‍💻 Developer
+
+**Jaydip Dumraliya**
+
+Built as a full-stack project to demonstrate modern **automotive marketplace, lead management, and dealership operations**.
+
