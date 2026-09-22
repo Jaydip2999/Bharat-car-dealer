@@ -2,7 +2,7 @@
 
 ### Modern Car Dealership Platform
 
-A full-stack car dealership platform designed to make **car discovery, evaluation, and customer enquiries** simple and seamless.
+A full-stack Indian car dealership platform designed to make **car discovery, evaluation, and customer enquiries** simple and seamless.
 
 <p align="center">
   <strong>🚘 Browse Cars</strong> &nbsp;•&nbsp;
