@@ -24,6 +24,7 @@ import { EmiCalculator } from './components/EmiCalculator';
 import { SellCarValuation } from './components/SellCarValuation';
 import { CarComparisonDrawer } from './components/CarComparisonDrawer';
 import { DealershipTrust } from './components/DealershipTrust';
+import { DailyCarQuiz } from './components/DailyCarQuiz';
 import { Footer } from './components/Footer';
 import { EnquiryModal } from './components/EnquiryModal';
 import { AdminPanel } from './components/admin/AdminPanel';
@@ -773,6 +774,8 @@ export default function App() {
           </div>
         )}
       </main>
+
+      <DailyCarQuiz />
 
       {/* Auto Loan EMI Calculator Section */}
       <EmiCalculator
