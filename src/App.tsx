@@ -28,6 +28,7 @@ import { DailyCarQuiz } from './components/DailyCarQuiz';
 import { Footer } from './components/Footer';
 import { EnquiryModal } from './components/EnquiryModal';
 import { AdminPanel } from './components/admin/AdminPanel';
+import { DailyDeal } from './components/DailyDeal';
 import { api } from './services/api';
 import { DEALERSHIP_CONFIG, formatWhatsAppLink } from './config/dealership';
 
@@ -426,6 +427,7 @@ export default function App() {
         onSelectQuickFilter={handleSelectQuickFilter}
         activeFilterChip={activeFilterChip}
       />
+        <DailyDeal />
 
       {/* Main Inventory Hub Section */}
       <main id="inventory-section" className="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-8">
