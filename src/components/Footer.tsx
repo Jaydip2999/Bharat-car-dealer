@@ -92,6 +92,7 @@ export const Footer: React.FC<Props> = ({ onOpenAdmin }) => {
             <span className="hover:text-slate-400 cursor-pointer">Terms &amp; Conditions</span>
             <span>•</span>
             <span className="hover:text-slate-400 cursor-pointer">Warranty Certificate</span>
+            <span className="hover:text-slate-400 cursor-pointer">Contact Us</span>
             {onOpenAdmin && (
               <>
                 <span>•</span>
