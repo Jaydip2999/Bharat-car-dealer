@@ -85,6 +85,13 @@ Designed for a seamless experience across:
 
 ---
 
+## 🚀 Recent Updates
+- Added **Daily Featured Deal** component (`DailyDeal`)
+- Added **Special Promotional Banner** component (`PromoBanner`)
+- Optimized inventory discovery & filter modules
+
+---
+
 ## 👨‍💻 Developer
 
 ### Jaydip Dumraliya
@@ -96,3 +103,4 @@ Full-Stack Web Developer
 ---
 
 ⭐ **Built with React, Node.js & TypeScript**
+
